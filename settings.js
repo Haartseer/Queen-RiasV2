@@ -14,7 +14,7 @@ global.ownername = '𝐓𝐨𝐱𝐱𝐢𝐜 𝐁𝐨𝐲' //ur owner name
 
 // Information
 global.botname = '𝑸𝒖𝒆𝒆𝒏 𝑹𝒊𝒂𝒔 𝑽𝟐' //ur bot name
-global.ownernumber = '2348165846414' //ur owner number
+global.ownernumber = '27635326981' //ur owner number
 global.premium = ["2348165846414"] // Premium User
 /*--------------------------------------------*/
 // Type Choose true or false
